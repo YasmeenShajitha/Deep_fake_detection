@@ -110,31 +110,6 @@ For each prediction, the application generates a downloadable PDF file summarizi
 
 ---
 
-## Academic Context
-
-This project was completed under the academic supervision of **Ma’am Aima Munir**, as part of course of Articifial Intelligence. It serves as both a functional tool and an educational contribution to the field of computer vision and AI ethics.
-
----
-
-## Author
-
-- **Muhammad Saad**
-- Just an ordinary programmer
-- [LinkedIn](https://www.linkedin.com/in/muhammadsaadsabri/) | [GitHub](https://github.com/iamsaadsiddiq)
-
----
-
-## License
-
-This project is intended for **educational and research purposes only**. Commercial use is not permitted without explicit authorization. If you use this project or its components, kindly cite it appropriately.
-
----
-
-## Acknowledgments
-
-Special thanks to Ma’am Aima Munir for her continued mentorship and guidance, and to the open-source community whose tools and datasets made this work possible.
-
----
 
 ## Tags
 
